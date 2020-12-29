@@ -8,3 +8,7 @@ The purpose is to learn or reinforce the following topics:
 * Databases with PostgreSQL
 * Migrations with MikroORM
 * GraphQL, Apollo, Express server
+* Cookies with redis
+* Next.js and Chakra (2:09 - Switching to front end)
+* URQL
+* Docker deployment
